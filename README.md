@@ -39,9 +39,10 @@ deployed URL using Surge : [Manoj-Blogpost](http://manoj-blogpost.surge.sh/)
 
 
 ## Screenshots
+<img width="30px" src="./screenShots/s1.png" alt="image_name png" />
 
-![App Screenshot](/screenShots/s1.png)
-![App Screenshot](https://github.com/manojb-j/React-blogPost-app/blob/main/screenShots/s2.png)
-![App Screenshot](https://github.com/manojb-j/React-blogPost-app/blob/main/screenShots/s3.png)
-![App Screenshot](https://github.com/manojb-j/React-blogPost-app/blob/main/screenShots/s4.png)
+![1](/screenShots/s1.png)
+![2](https://github.com/manojb-j/React-blogPost-app/blob/main/screenShots/s2.png)
+![3](https://github.com/manojb-j/React-blogPost-app/blob/main/screenShots/s3.png)
+![4](https://github.com/manojb-j/React-blogPost-app/blob/main/screenShots/s4.png)
 

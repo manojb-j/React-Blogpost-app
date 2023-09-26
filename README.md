@@ -40,7 +40,7 @@ deployed URL using Surge : [Manoj-Blogpost](http://manoj-blogpost.surge.sh/)
 
 ## Screenshots
 
-![App Screenshot](https://github.com/manojb-j/React-blogPost-app/blob/main/screenShots/s1.png)
+![App Screenshot](./screenShots/s1.png)
 ![App Screenshot](https://github.com/manojb-j/React-blogPost-app/blob/main/screenShots/s2.png)
 ![App Screenshot](https://github.com/manojb-j/React-blogPost-app/blob/main/screenShots/s3.png)
 ![App Screenshot](https://github.com/manojb-j/React-blogPost-app/blob/main/screenShots/s4.png)

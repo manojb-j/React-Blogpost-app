@@ -1,5 +1,5 @@
 
-# React Blogpost
+# React blogPost app
 
 A “Blog post app” using React, Redux and Context API. Application contain list of blog post. Users can add new post, view the details of the blog post and also can delete and ❤️ like the post.
 
@@ -40,8 +40,8 @@ deployed URL using Surge : [Manoj-Blogpost](http://manoj-blogpost.surge.sh/)
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/manojb-j/React-blogPost-app/blob/main/screenShots/s1.png)
+![App Screenshot](https://github.com/manojb-j/React-blogPost-app/blob/main/screenShots/s2.png)
+![App Screenshot](https://github.com/manojb-j/React-blogPost-app/blob/main/screenShots/s3.png)
+![App Screenshot](https://github.com/manojb-j/React-blogPost-app/blob/main/screenShots/s4.png)
 

@@ -4,7 +4,7 @@
 A “Blog post app” using React, Redux and Context API. Application contain list of blog post. Users can add new post, view the details of the blog post and also can delete and ❤️ like the post.
 
 
-#Explanation
+# Explanation
 in this project all the main files are indise the src folder where all the diffrent components are in the separate folder
 - in the App.jsx i have configured all the Routes of the app and specify the path for the pages
 - cards.css have all basic css styling apart from the boootstrap useing the project

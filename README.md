@@ -4,7 +4,14 @@
 A “Blog post app” using React, Redux and Context API. Application contain list of blog post. Users can add new post, view the details of the blog post and also can delete and ❤️ like the post.
 
 
-
+#Explanation
+in this project all the main files are indise the src folder where all the diffrent components are in the separate folder
+- in the App.jsx i have configured all the Routes of the app and specify the path for the pages
+- cards.css have all basic css styling apart from the boootstrap useing the project
+- Data.jsx this file conatain the data stored in the array object in locally
+- create.jsx contain the code the create a new post in the app where i have use the Redux for state managment for all the crud oparetions in the app
+- context Api use in the app to store liked blog in array in the LikedBlogsContex.js file
+- all the Redux operation are configure in the UserReducer.jsx file 
 
 ## Installation
 
